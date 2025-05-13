@@ -1,6 +1,6 @@
 #AI-Chatbot
 Welcome to the AI Chatbot! This intelligent chatbot uses OpenAI's GPT API to provide real-time, human-like responses. It can answer user queries, offer conversational replies, and simulate assistant-like behavior — all in a simple and intuitive web interface.
-Try it out here: https://ai-chatbot-s5ho.onrender.com
+Try it out here:  https://ai-chatbot-s5ho.onrender.com
 
 Tech Used:
   Frontend: HTML + CSS (via Jinja2 templates in Flask)
