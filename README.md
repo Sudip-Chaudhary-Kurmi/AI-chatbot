@@ -7,7 +7,7 @@ Tech Used:
 
 >>To run this app locally:
 1. Clone the repository
-    git clone https://github.com/Sudip-Chaudhary-Kurmi/AI-chatbot.gitcd
+    git clone https://github.com/Sudip-Chaudhary-Kurmi/AI-chatbot.git
 
 2. Install dependencies
     pip install -r requirements.txt
@@ -15,7 +15,7 @@ Tech Used:
 3. Create a .env file in the root directory and add your OpenAI API key:
     OPENAI_API_KEY=your_openai_api_key_here
 
-4. Run the app
+5. Run the app
     python app.py
 
 >>Then open your browser and go to http://localhost:5000
